@@ -25,7 +25,8 @@
         android:layout_gravity="center"
         android:ems="10"
         android:inputType="text"
-        android:hint="@string/username">
+        android:hint="@string/username"
+        android:saveEnabled="false">
         <requestFocus/>
     </EditText>
 
